@@ -24,7 +24,7 @@
     {
       "id": "c3u2-week4",
       "title": "C3U2: Coordinate Methods — Week 4",
-      "visible": false,
+      "visible": true,
       "warmups": [],
       "apps": [
         {
@@ -44,7 +44,7 @@
     {
       "id": "c3u2-week3",
       "title": "C3U2: Coordinate Methods — Week 3",
-      "visible": false,
+      "visible": true,
       "warmups": [
         {
           "id": "wu-w3-tue",
